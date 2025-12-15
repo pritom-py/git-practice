@@ -6,5 +6,6 @@ I know about those git commands:
 4. git commit
 5. git log
 now, I asdfdsf working on remote git and
+now, I adfaf working on remote git and
 how to push pull 
 
