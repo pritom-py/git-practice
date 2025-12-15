@@ -6,6 +6,10 @@ I know about those git commands:
 4. git commit
 5. git log
 now, I asdfdsf working on remote git and
+<<<<<<< HEAD
 now, I adfaf working on remote git and..
+=======
+now, I adfaf working on remote git and
+>>>>>>> db4496b0eede001388a587b31255351387e1c3d4
 how to push pull 
 
