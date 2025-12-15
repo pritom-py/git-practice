@@ -5,3 +5,6 @@ I know about those git commands:
 3. git add
 4. git commit
 5. git log
+now, I working on remote git and
+how to push pull 
+
